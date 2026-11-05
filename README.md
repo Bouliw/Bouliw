@@ -8,9 +8,10 @@ I code, tinker and build my own projects, AI or not, usually to fix a problem I 
 - [**trackmend**](https://github.com/Bouliw/trackmend): repairs a macOS Music library full of local files, through the Music app itself (Python). It cleans titles and finds the real artwork and album on Deezer, adds lyrics from LRCLIB and cuts full albums into tracks. Every command is a dry run until you add `--apply`, and `trackmend undo` puts everything back.
 - [**doc-indexer-macos**](https://github.com/Bouliw/doc-indexer-macos): on-device OCR and text extraction for a folder of paperwork (Python, Swift, Apple Vision). It turns scanned and photographed documents into plain text that grep or an AI agent can search, without a single document leaving the Mac.
 - [**mac-toolkit**](https://github.com/Bouliw/mac-toolkit): small macOS tools in one install script (shell, Swift). A guard keeps a Bluetooth headset from clipping short sounds and a cleaner strips tracking parameters from copied links. Safari share actions download a video or send it to an LG TV.
+- [**lantern**](https://github.com/Bouliw/lantern): a fast, stylish client for Jellyfin (TypeScript, Preact), as a web app for the Mac and phones and a packaged app for LG webOS TVs. It groups films into sagas, recommends from what you watch, chooses between direct play and a server stream on its own and skips intros and credits. Eight styles each bring their own motion, interface sounds and generative background music.
 
 Upstream: [a fix to Homebrew's whisper.cpp formula](https://github.com/Homebrew/homebrew-core/pull/318001), merged.
 
-**Stack**: Python, Swift, SwiftUI, shell, ffmpeg, Core Audio, whisper.cpp, MLX, Apple Vision, local LLMs, Sigma
+**Stack**: Python, Swift, SwiftUI, TypeScript, Preact, shell, ffmpeg, Core Audio, Web Audio, whisper.cpp, MLX, Apple Vision, local LLMs, Sigma, webOS
 
 [Portfolio](https://bouliw.github.io) · [LinkedIn](https://www.linkedin.com/in/martin-laffont-1a218b250)
