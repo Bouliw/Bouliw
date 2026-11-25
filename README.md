@@ -16,3 +16,8 @@ Upstream: [a fix to Homebrew's whisper.cpp formula](https://github.com/Homebrew/
 **Stack**: Python, Swift, SwiftUI, TypeScript, Preact, shell, ffmpeg, Core Audio, Web Audio, whisper.cpp, MLX, Apple Vision, local LLMs, Sigma, webOS
 
 [Portfolio](https://bouliw.github.io) · [LinkedIn](https://www.linkedin.com/in/martin-laffont-1a218b250)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bouliw/Bouliw/output/github-snake-dark.svg">
+  <img alt="My contribution graph, eaten by a snake" src="https://raw.githubusercontent.com/Bouliw/Bouliw/output/github-snake.svg">
+</picture>
